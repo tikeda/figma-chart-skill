@@ -1,0 +1,9 @@
+{
+  "name": "figma-bar-chart",
+  "description": "Populate Figma bar chart and table templates with CSV data. Supports simple, stacked, parallel charts and dynamic table layouts.",
+  "version": "0.1.0",
+  "author": {
+    "name": "takujiikeda",
+    "url": "https://github.com/tikeda"
+  }
+}

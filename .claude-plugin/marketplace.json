@@ -1,0 +1,18 @@
+{
+  "name": "figma-chart-skill",
+  "metadata": {
+    "description": "Skills for populating Figma bar chart and table templates with CSV data"
+  },
+  "owner": {
+    "name": "takujiikeda",
+    "email": "takujiikeda@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "figma-bar-chart",
+      "description": "Populate Figma bar chart and table templates with CSV data. Supports simple, stacked, parallel charts and dynamic table layouts.",
+      "source": "./",
+      "category": "design"
+    }
+  ]
+}
